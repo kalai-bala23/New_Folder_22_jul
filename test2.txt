@@ -1,1 +1,3 @@
 without commit
+
+We can not push without Add to stage and commit to local git
